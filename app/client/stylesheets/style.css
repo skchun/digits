@@ -1,3 +1,24 @@
 body {
-  padding-top: 70px;  /* Move body of page below navbar. */
+  font-family: 'Open Sans', 'serif';
+  color: #19223E;
+}
+.header-image{
+  background-image: url("/images/HD-Wallpapers-1080p-Abstract-Dekstop.jpg");
+  background-size: cover;
+  height: 180px;
+}
+.navbar{
+  border-radius: 0px;
+}
+.navbar-inverse{
+  background-color: #19223E;
+}
+.navbar-inverse .navbar-brand{
+  color: #2ED5ED;
+}
+.text-muted{
+  color: #19223E;
+}
+a{
+  color: #2ED5ED;
 }
