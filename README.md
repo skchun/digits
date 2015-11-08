@@ -28,8 +28,8 @@ To list all of the contacts, log in then go to the list contacts page.
  
 To add a contact, go to the add contacts page.
  
- ![](https://raw.githubusercontent.com/skchun/digits/qa-1/doc/digits-add.jpg)
+![](https://raw.githubusercontent.com/skchun/digits/qa-1/doc/digits-add.jpg)
  
- #Credits
+#Credits
  
- Based upon the [meteor application template](http://ics-software-engineering.github.io/meteor-application-template/)
+Based upon the [meteor application template](http://ics-software-engineering.github.io/meteor-application-template/)
